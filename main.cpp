@@ -25,7 +25,29 @@ int main(int argc, char* argv[]) {
             result = number1 + number2;
             printf("%d + %d = %d\n", number1, number2, result);
             return 0;
-        }
+        }niggerniggerniggerniggerniggerniggerniggerniggerniggerniggerniggerniggervniggernigger
+
+                nigger
+
+        niggerniggervniggerv
+
+
+        vniggerniggernigger
+        v
+                niggernigger
+        nigger
+                nigger
+        nigger
+
+
+
+
+
+
+
+
+
+
         if (!strcmp("sub", argv[2])) {
             result = number1 - number2;
             printf("%d - %d = %d\n", number1, number2, result);
