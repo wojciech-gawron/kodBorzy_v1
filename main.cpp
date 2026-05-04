@@ -49,7 +49,7 @@ int main(int argc, char* argv[]) {
             return 0;
         }
     }
-
+    printf("jechac z zydami\n");
     usage(argv[0]);
 
     return 0;
